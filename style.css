@@ -253,3 +253,23 @@ footer {
   margin: 0 auto 20px auto;
   display: block;
 }
+.verypago-dispositivo {
+  text-align: center;
+  background: #fafafa;
+  padding: 60px 20px;
+}
+
+.titulo-elegante {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 2em;
+  color: #5b2d90;
+  margin-bottom: 30px;
+}
+
+.dispositivo-imagen {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+  filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15));
+}
