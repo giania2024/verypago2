@@ -44,3 +44,90 @@ footer {
   background: #f2f2f2;
   font-size: 0.9em;
 }
+.problemas {
+  background: #fff;
+  padding: 60px 20px;
+  text-align: center;
+}
+.problemas h2 {
+  color: #5b2d90;
+  margin-bottom: 30px;
+}
+.problema-lista {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+.problema {
+  background: #f7f7f7;
+  border-radius: 12px;
+  padding: 20px;
+  max-width: 300px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+.problema h3 {
+  color: #333;
+  margin-bottom: 10px;
+  font-size: 1.1em;
+}
+.problema p {
+  font-size: 0.95em;
+  color: #555;
+}
+.problema-caso {
+  background: #fff;
+  padding: 60px 20px;
+  text-align: center;
+}
+.caso-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 30px;
+}
+.caso {
+  max-width: 300px;
+}
+.caso img {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.caso h3 {
+  color: #5b2d90;
+  margin: 10px 0;
+}
+.caso p {
+  color: #555;
+  font-size: 0.95em;
+}
+.problema-caso {
+  background: #fff;
+  padding: 60px 20px;
+  text-align: center;
+}
+.caso-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 30px;
+}
+.caso {
+  max-width: 300px;
+}
+.caso img {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.caso h3 {
+  color: #5b2d90;
+  margin: 10px 0;
+}
+.caso p {
+  color: #555;
+  font-size: 0.95em;
+}
