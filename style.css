@@ -248,3 +248,8 @@ footer {
   width: 32px;
   height: 32px;
 }
+.logo {
+  width: 160px;
+  margin: 0 auto 20px auto;
+  display: block;
+}
